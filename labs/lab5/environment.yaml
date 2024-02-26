@@ -1,0 +1,14 @@
+name: ensf444
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - seaborn=0.13.*
+  - matplotlib
+  - pandas=2.*
+  - numpy
+  - scikit-learn=1.4.*
+  - jupyter
+  - kaggle
+  - xgboost=1.7.*
