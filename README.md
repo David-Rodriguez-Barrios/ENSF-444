@@ -1,5 +1,18 @@
 # ENSF-444
 This repository showcases different machine learning system examples utilizing different supervised learning models.
+
+### Languages and Libraries Utilized:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas]()
+![NumPy]()
+![Scikit-Learn]()
+![Kaggle]()
+
+### Supervised Learning Models
+Regression Models: Linear Regression, Lasso & Ridge Regression, Support Vector Machine (SVM)
+
+Classification Models: Logistic Regression, Support Vector Classifier
+
 ## Assignment 2
 This folder showcases the utilization of a classification model built by a logistic regression model to classify emails as spam and not spam. The model classifies emails as spam or not spam depending on the word frequencies. Data features are processed and split from Pandas and Numpy to train and then validate the metrics of the model afterwards. In the second part, a regression model utilizing linear models: linear regression, Lasso, and Ridge Regression to predict the compressive strength of concrete given different features such as the concrete's slag, ash, water, coarseness, age, fine, and cement.
 
